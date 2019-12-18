@@ -17,4 +17,4 @@ nendSDKのiOS版MoPubカスタムイベント用ライブラリのリリース�
 
 ## License
 
-Copyright (C) F@N Communications, Inc.
+Copyright (C) FAN Communications, Inc.
